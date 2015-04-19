@@ -1,6 +1,6 @@
 ##양 우 준
-*웹사이트 : https://www.facebook.com/profile.php?id=100002193404956
-*E-Mail: dnwns5578@naver.com
+* 웹사이트 : https://www.facebook.com/profile.php?id=100002193404956
+* E-Mail: dnwns5578@naver.com
 
 안녕하십니까 제주대학교 컴퓨터 공학과 2학년 양우준 입니다.
 저는 어릴적 수학교사의 꿈을 꾸다가 고3시기에 성적이 않되어 진로를 어디로 정할까 하다
@@ -16,10 +16,10 @@
 
 
 ##사용 가능한 프로그래밍 언어
-* **C
-* **C++
-* **PHP
-* **HTML
+* C
+* C++
+* PHP
+* HTML
 
 ##취미
 컴퓨터/살사/독서
